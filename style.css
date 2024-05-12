@@ -17,7 +17,7 @@ nav{
     background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,251,224,1) 100%);
 }
 
-#background{
+#s1{
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
@@ -90,3 +90,32 @@ nav{
     text-align: center;
 }
 
+#slideshow{
+    border-radius: 5px;
+    height: 40vh;
+    width: 45vw;
+    position: absolute;
+    margin-top: 18vh;
+    margin-left: 2vw;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,251,224,1) 100%);
+}
+
+#s1desc{
+    border-radius: 5px;
+    height: 35vh;
+    width: 45vw;
+    position: absolute;
+    margin-top: 60vh;
+    margin-left: 2vw;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,251,224,1) 100%);
+}
+
+#signupsheet{
+    border-radius: 5px;
+    height: 77vh;
+    width: 50vw;
+    position: absolute;
+    margin-top: 18vh;
+    margin-left: 48vw;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,251,224,1) 100%);
+}
