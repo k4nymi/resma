@@ -13,7 +13,8 @@ nav{
     margin-left: 1vw;
     border-radius: 5px;
     position: fixed;
-    background-color: white;
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,251,224,1) 100%);
 }
 
 #background{
